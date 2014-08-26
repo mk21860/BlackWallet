@@ -1,0 +1,19 @@
+README.md
+
+ROADMAP:
+
+1. Setup new merkle and genesis and fire up the coin - DONE
+
+2. Configure the TOR implementation - DONE
+
+3. Change algo to X11 - DONE
+
+4. Fine tune difficulty retarget for X11 - IN PROGRESS
+
+5. Setup pszMain key using SSL - 
+
+6. Build windows wallet and test sending alerts
+
+7. Stress test the coin with 200+ Mhs of power.
+
+More to be added later...
